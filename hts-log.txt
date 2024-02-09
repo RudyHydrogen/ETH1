@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 07 Feb 2024 23:25:04 at https://ethereum.org/zh/run-a-node#rasp-pi +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwr1%e1C2%Pns2u1%s%u%I0p7H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "zh, en, *" https://ethereum.org/zh/run-a-node#rasp-pi -O1 "D:\WinHTTrack\eth\888" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:25:49	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/robots.txt (from primary/primary)
+23:25:49	Warning: 	Retry after error -5 (Unable to get server's address: 不知道这样的主机。 ) at link primary/rasp-pi (from primary/primary)
+23:25:51	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/rasp-pi (from primary/primary)
+23:25:54	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/rasp-pi (from primary/primary)
+23:25:54	Warning: 	Warning: store text/css without scan: D:/WinHTTrack/eth/888/ethereum.org/_next/static/css/e60748b1c3aee46b.css
+23:25:54	Warning: 	Warning: store image/svg+xml without scan: D:/WinHTTrack/eth/888/cdnjs.cloudflare.com/ajax/libs/twemoji/12.0.4/2/svg/1f30f.svg
+23:25:54	Warning: 	Warning: store image/svg+xml without scan: D:/WinHTTrack/eth/888/cdnjs.cloudflare.com/ajax/libs/twemoji/12.0.4/2/svg/1f41b.svg
+23:25:54	Warning: 	Warning: store image/svg+xml without scan: D:/WinHTTrack/eth/888/cdnjs.cloudflare.com/ajax/libs/twemoji/12.0.4/2/svg/26a0.svg
+23:25:54	Warning: 	Warning: store image/svg+xml without scan: D:/WinHTTrack/eth/888/cdnjs.cloudflare.com/ajax/libs/twemoji/12.0.4/2/svg/1f6d2.svg
+23:25:54	Warning: 	Warning: store image/svg+xml without scan: D:/WinHTTrack/eth/888/cdnjs.cloudflare.com/ajax/libs/twemoji/12.0.4/2/svg/1f3d7.svg
+23:25:54	Warning: 	Warning: store image/svg+xml without scan: D:/WinHTTrack/eth/888/cdnjs.cloudflare.com/ajax/libs/twemoji/12.0.4/2/svg/1f969.svg
+23:25:54	Warning: 	Warning: store image/svg+xml without scan: D:/WinHTTrack/eth/888/cdnjs.cloudflare.com/ajax/libs/twemoji/12.0.4/2/svg/1f967.svg
+
+HTTrack Website Copier/3.49-2 mirror complete in 50 seconds : 18 links scanned, 13 files written (1385808 bytes overall) [1076626 bytes received at 21532 bytes/sec], 431997 bytes transferred using HTTP compression in 10 files, ratio 25%, 1.3 requests per connection
+(2 errors, 10 warnings, 0 messages)
